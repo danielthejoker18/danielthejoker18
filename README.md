@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielthejoker18
-- 👀 I’m interested in Python and machine learning and ia in general
-- 🌱 I’m currently learning automation with python with selenium and machine learning with sklearn
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in Web Development in general
+- 🌱 I’m currently learning mobile development with java
+- 💞️ I’m looking to collaborate on php/java projects
 
 <!---
 danielthejoker18/danielthejoker18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
