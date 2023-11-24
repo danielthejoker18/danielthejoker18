@@ -3,11 +3,11 @@
 - 💞️ I’m looking to collaborate on php/java projects
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielthejoker18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielthejoker18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielthejoker18&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielthejoker18&layout=compact&hide=html,css,cs"/>
+     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielthejoker18&layout=compact&hide=html,css,cs"/>
   </a>
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielthejoker18&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 <!---
