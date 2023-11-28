@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on php/java projects
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielthejoker18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=320"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielthejoker18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=250"/>
   </a>
   <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielthejoker18&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
