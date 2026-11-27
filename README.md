@@ -146,8 +146,6 @@ Um ecossistema completo para operação logística de alimentos e bebidas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-danielthejoker18-181717?style=for-the-badge&logo=github)](https://github.com/danielthejoker18)
 [![Email](https://img.shields.io/badge/Email-danielmoreira18@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmoreira18@hotmail.com)
-<!-- Para adicionar LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seu_Nome-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/SEU-PERFIL)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Moreira-0A66C2?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/daniel-moreira-491573b6)
 
 </div>
