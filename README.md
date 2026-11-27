@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+Santos+%F0%9F%91%8B;Software+Engineer+%7C+PHP+%2F+Laravel+Full-Stack;APIs+offline-first%2C+ERPs+e+apps+mobile;Open+source+com+340%E2%AD%90+no+GitHub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+Santos+%F0%9F%91%8B;Full-Stack+%7C+Web+%2B+Mobile+%2B+DevOps;Do+desenho+da+aplica%C3%A7%C3%A3o+ao+deploy+em+produ%C3%A7%C3%A3o;PHP+%2F+Laravel+%7C+Flutter+%7C+Docker+%7C+Coolify" alt="Typing SVG" />
 
 <br/>
 
-**Engenheiro de software full-stack focado em PHP/Laravel: do backend e painel administrativo ao app mobile.**
-*Full-stack software engineer (PHP/Laravel) building production-style systems end to end.*
+**Engenheiro full-stack (web + mobile) e DevOps: projeto, desenvolvo, publico e opero sistemas em produção.**
+*Full-stack (web + mobile) and DevOps engineer: I design, build, ship and run production systems end to end.*
 
 <br/>
 
@@ -19,11 +19,37 @@
 
 ## 🎯 O que eu faço de melhor
 
-- 🏗️ **Sistemas completos de ponta a ponta**: backend Laravel + painel Filament + app Flutter consumindo a mesma API.
+- 🏗️ **Do desenho ao deploy**: arquitetura, backend Laravel, painel Filament, app Flutter e pipeline de entrega, tudo por minha conta.
+- ☁️ **Projetos em produção com infraestrutura completa**: deploy automatizado, backups automáticos e domínio próprio, em infraestrutura própria (self-hosted).
 - 📡 **Arquitetura offline-first**: apps que continuam funcionando sem internet e sincronizam depois.
 - ✅ **Qualidade de código**: testes automatizados (Pest), formatação estrita (Pint/PSR-12) e camada de serviço com transações atômicas.
 - 🚀 **Produto que as pessoas realmente usam**: um projeto open source com **340+ estrelas** e documentação bilíngue.
 - 🤖 **Automação com IA**: pipelines em Python com LLMs, Whisper, TTS e FFmpeg.
+
+---
+
+## 🚀 Do desenho ao deploy em produção
+
+Eu não entrego só código: entrego o sistema **no ar, com backup e operação**.
+
+| Etapa | O que eu faço |
+| :--- | :--- |
+| 🧭 **Desenho** | Modelagem de dados, arquitetura e APIs (REST), pensando em escala e manutenção |
+| 💻 **Desenvolvimento web** | Laravel, Filament, Livewire, Vue/React, Tailwind, com testes automatizados |
+| 📱 **Mobile** | Apps Flutter offline-first integrados à mesma API |
+| 🐳 **Containerização** | Docker para ambientes reproduzíveis, do desenvolvimento à produção |
+| 🔄 **Pipeline de deploy** | Deploy automatizado a partir do Git, em PaaS self-hosted (**Coolify**) |
+| 🛡️ **Operação** | **Backups automáticos**, domínio próprio e aplicações rodando em produção |
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
@@ -104,11 +130,13 @@ Um ecossistema completo para operação logística de alimentos e bebidas.
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-**Dados, Infra & Qualidade**<br/>
+**DevOps, Dados & Qualidade**<br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Pest-F472B6?style=for-the-badge&logo=php&logoColor=white" />
@@ -136,7 +164,7 @@ Um ecossistema completo para operação logística de alimentos e bebidas.
 
 - 🔭 Construindo ecossistemas **Laravel + Filament + Flutter** com arquitetura offline-first
 - 🧠 Explorando **LLMs e fluxos agênticos** para automação
-- 💬 Pergunte-me sobre **PHP, Laravel, APIs, automação e apps mobile**
+- 💬 Pergunte-me sobre **PHP, Laravel, Flutter, Docker, deploy e infraestrutura**
 
 <div align="center">
 
