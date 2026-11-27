@@ -121,12 +121,12 @@ Um ecossistema completo para operação logística de alimentos e bebidas.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielthejoker18&show_icons=true&theme=dracula&hide_border=true" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielthejoker18&layout=compact&theme=dracula&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=danielthejoker18&show_icons=true&theme=dracula&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielthejoker18&layout=compact&theme=dracula&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github.com/danielthejoker18/danielthejoker18/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/danielthejoker18/danielthejoker18/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
